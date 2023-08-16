@@ -22,5 +22,10 @@ The Data Bank team have prepared a data model for this case study as well as a f
 ---------**Entity Relationship Diagram**----------
 ![image](https://github.com/ThuHuong-Gina/Data-Bank_-8-week-SQL-Challenge/assets/141025228/e555a140-8874-4ff9-a5f7-ffd974f11bd2)
 
-
+**2.Insights**
+## Customer Nodes Exploration
+- There are 5 nodes (or branches) in the data bank system
+- 3 regions have the most branches are Australia, America, and Eurore. There are also the highest numbers of customers allocated respectively.
+- On average, It takes  14 days for customers to be alocated
+## Customer Transaction
 
