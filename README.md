@@ -1,4 +1,5 @@
 ![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/e7b3aebf-c916-4614-8b52-8e59fb1f3313)
+
 Please check the challenge here: [Data Bank](http://https://8weeksqlchallenge.com/case-study-4/)
 
 
