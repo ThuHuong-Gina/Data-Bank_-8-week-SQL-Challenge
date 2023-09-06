@@ -24,7 +24,30 @@ The Data Bank team have prepared a data model for this case study as well as a f
 ---------**Entity Relationship Diagram**----------
 ![image](https://github.com/ThuHuong-Gina/Data-Bank_-8-week-SQL-Challenge/assets/141025228/e555a140-8874-4ff9-a5f7-ffd974f11bd2)
 
+> The management team at Data Bank wants to increase its total customer base — but also needs some help tracking just how much data storage its customers will need.
+
 # **2. DataBank Structure**
+
+## 2.1 Table 1: Region
+Data Bank is run off a network of nodes where both money and data are stored across the globe. In a traditional banking sense — you can think of these nodes as bank branches
+
+![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/2031ff05-3f26-4849-b689-3464fc4bffbb)
+
+## 2.2 Table 2: Customer Nodes
+Customers are randomly distributed across the nodes according to their region — this also specifies exactly which node contains both their cash and data.
+> This random distribution changes frequently to reduce the risk of hackers getting into Data Bank’s system and stealing customers’ money and data!
+
+![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/1322b91b-7559-451b-b8e2-86d6eb7b40bb)
+
+## 2.3 Table 3: Customer transactions
+This table stores all customer deposits, withdrawals, and purchases made using their Data Bank debit card.
+
+![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/29ded528-41af-4c78-9120-19695c054b1c)
+
+# **3. Case Study Questions**
+The following case study questions include some general data exploration analysis for the nodes and transactions before diving right into the core business questions and finishes with a challenging final request!
+
+## A. Customer Nodes Exploration
  A financial technology company that helps its consumers with transactional banking services in a novel, more convenient way. 
 - DataBank offers banking services like:
   * Deposits
@@ -44,7 +67,7 @@ The Data Bank team have prepared a data model for this case study as well as a f
   - Customer allocation is random based on region for an extra layer of security.
   - DataBank continuously improves and refines protocols based on reallocated metrics.
 
-### Data Allocation
+## c. Data Allocation
 In order to expand its customer base, DataBank tested hypotheses and experimented with allocating data to different customer groups using 3 options:
   
     - Option 1: data is allocated based off the amount of money at the end of the previous month
