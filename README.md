@@ -60,14 +60,17 @@ The following case study questions include some general data exploration analysi
 - Median, 80th and 95th percentiles for this same reallocation days metric for each region
   
   ![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/c951ab52-309d-4e61-b245-3ee3a0a280d4)
-
+  
 * Sercurity
   - DataBank operates on a global network of nodes for secure customer information distribution.
   - Customer data and funds are frequently updated and distributed to reduce risks like online hacking and digital identity risks.
   - Customer allocation is random based on region for an extra layer of security.
   - DataBank continuously improves and refines protocols based on reallocated metrics.
+    
+## B. Customer Transactions
 
-## c. Data Allocation
+
+## C. Data Allocation
 In order to expand its customer base, DataBank tested hypotheses and experimented with allocating data to different customer groups using 3 options:
   
     - Option 1: data is allocated based off the amount of money at the end of the previous month
