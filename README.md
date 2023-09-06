@@ -47,9 +47,9 @@ The Data Bank team have prepared a data model for this case study as well as a f
 ### Data Allocation
 In order to expand its customer base, DataBank tested hypotheses and experimented with allocating data to different customer groups using 3 options:
   
-  - Option 1: data is allocated based off the amount of money at the end of the previous month
-  - Option 2: data is allocated on the average amount of money kept in the account in the previous 30 days
-  - Option 3: data is updated real-time
+    - Option 1: data is allocated based off the amount of money at the end of the previous month
+    - Option 2: data is allocated on the average amount of money kept in the account in the previous 30 days
+    - Option 3: data is updated real-time
     
 _Question: How much data would have been required for each option on a monthly basis?_
 
@@ -58,26 +58,26 @@ _Question: How much data would have been required for each option on a monthly b
 ![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/2ba1c1ea-671d-4809-a897-4fee057b076e)
 
 --> Insight: 
-  * There are more deposits than withdrawals and purchases  in all the months which led to lower or negative customer balances   
+   * There are more deposits than withdrawals and purchases  in all the months which led to lower or negative customer balances   
 
-  * DataBank can leverage this information to identify customer behavious and usage patterns, such as identifying customers who consistently have high data storage needs and target them with promotional offers and special servicea.
+   * DataBank can leverage this information to identify customer behavious and usage patterns, such as identifying customers who consistently have high data storage needs and target them with promotional offers and special servicea.
 
 - Option 2:
   
 ![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/fe600bcb-b976-450a-ab47-863c0a96294c)
 
 --> Insight: 
-  * There are more withdrawals and purchases than deposits in all the months, which led to lower or negative customer balances which led to lower customer's balances
-  * Using this approach may not be suffient becasue the average balance over the previous 30 days is decreasing over time
-  * Databank should consider re-evalute their allocation strategy for these customers or consider providing additional data allowances to prevent negative customer experiences.
+   * There are more withdrawals and purchases than deposits in all the months, which led to lower or negative customer balances which led to lower customer's balances
+   * Using this approach may not be suffient becasue the average balance over the previous 30 days is decreasing over time
+   * Databank should consider re-evalute their allocation strategy for these customers or consider providing additional data allowances to prevent negative customer experiences.
 
 - Option 3:
   
 ![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/aa1bdcbe-e508-4680-9f4c-617628e70f6b)
 
 --> Insight: 
-  * Almost the same as option 2
-  *  In terms of the allocation of data to customers, this output suggests that more data may be required for the first 2 months of the year.
+   * Almost the same as option 2
+   * In terms of the allocation of data to customers, this output suggests that more data may be required for the first 2 months of the year.
 
 # 3. Conclusion
 
