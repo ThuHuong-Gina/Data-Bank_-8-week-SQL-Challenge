@@ -27,9 +27,9 @@ The Data Bank team have prepared a data model for this case study as well as a f
 # **2. DataBank Structure**
  A financial technology company that helps its consumers with transactional banking services in a novel, more convenient way. 
 - DataBank offers banking services like:
-* Deposits
-* Withdrawals
-* Purchases
+  * Deposits
+  * Withdrawals
+  * Purchases
 - DataBank operates in 5 regions: Australia, America, Africa, Asia, and Europe
 - There are 5 nodes (or branches) in the data bank system
 - 3 regions have the most branches: Australia, America, and Europe. There are also the highest numbers of customers allocated, respectively.
@@ -80,6 +80,6 @@ _Question: How much data would have been required for each option on a monthly b
   *  In terms of the allocation of data to customers, this output suggests that more data may be required for the first 2 months of the year.
 
 # 3. Conclusion
-DataBank offers the most advanced security system, making it more safe for customers and enhancing swift and secure transactions.
 
-It can also carry out more tested hypotheses to increase customer base and understand customer's behavious, needs and expectations.
+`DataBank offers the most advanced security system, making it more safe for customers and enhancing swift and secure transactions.
+It can also carry out more tested hypotheses to increase customer base and understand customer's behavious, needs and expectations.`
