@@ -1,6 +1,6 @@
 # CACE STUDY #4: DATA BANK CHALLENGE
 
-![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/51e9264f-0b78-4d88-ad2d-ff37c6100249)
+![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/0180e55b-52c3-40f2-a2b8-8d2d54c267f2)
 
 
 Please check the challenge here: [Data Bank](http://https://8weeksqlchallenge.com/case-study-4/)
