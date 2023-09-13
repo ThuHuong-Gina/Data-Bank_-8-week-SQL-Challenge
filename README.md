@@ -46,7 +46,14 @@ This table stores all customer deposits, withdrawals, and purchases made using t
 
 ![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/29ded528-41af-4c78-9120-19695c054b1c)
 
-# **3. Case Study Questions**
+# **3. DataBank Vizualization**
+
+![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/e4154be0-51c9-4f8b-a814-f55483def0f2)
+
+![image](https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge/assets/141025228/4d115c6d-6a4a-4adb-9031-8a91ef147aff)
+
+
+# **4. Case Study Questions**
 The following case study questions include some general data exploration analysis for the nodes and transactions before diving right into the core business questions and finishes with a challenging final request!
 
 ## A. Customer Nodes Exploration
